@@ -1,2 +1,2 @@
-# NetAtmo-Legrand-to-Blue-Iris
+# NetAtmo2BlueIris
 Show your Netatmo camera feed in Blue Iris
