@@ -9,6 +9,8 @@ clone lnetatmo repo
 
 save and fix readCam.py
 
+open BlueIris and add Generic/ONViF cammera and set camera name (short name used later!)
+
 create file .netatmo.credentials in your home durectory (C:\Users\ahostn\.netatmo.credentials)
 
 Open file and paste this:
