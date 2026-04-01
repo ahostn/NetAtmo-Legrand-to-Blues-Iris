@@ -11,7 +11,7 @@ save and fix readCam.py
 
 open BlueIris and add Generic/ONViF cammera and set camera name (update readCam.py with this name!)
 
-create file .netatmo.credentials in your home durectory (ex: C:\Users\ahostn\\.netatmo.credentials)
+create file .netatmo.credentials in your home directory (ex: C:\Users\ahostn\\.netatmo.credentials)
 
 Open file and paste this:
 
